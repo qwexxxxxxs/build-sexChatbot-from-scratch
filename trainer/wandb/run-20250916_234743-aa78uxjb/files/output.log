@@ -175,3 +175,15 @@ Epoch:[1/1](17200/44160) loss:2.106 lr:0.000385059210 epoch_Time:120.0min:
 Epoch:[1/1](17300/44160) loss:2.566 lr:0.000383384651 epoch_Time:119.0min:
 Epoch:[1/1](17400/44160) loss:2.159 lr:0.000381705871 epoch_Time:119.0min:
 Epoch:[1/1](17500/44160) loss:2.630 lr:0.000380022957 epoch_Time:118.0min:
+Epoch:[1/1](17600/44160) loss:2.954 lr:0.000378335992 epoch_Time:118.0min:
+Epoch:[1/1](17700/44160) loss:2.264 lr:0.000376645063 epoch_Time:118.0min:
+Epoch:[1/1](17800/44160) loss:2.104 lr:0.000374950254 epoch_Time:117.0min:
+Epoch:[1/1](17900/44160) loss:2.450 lr:0.000373251653 epoch_Time:117.0min:
+Epoch:[1/1](18000/44160) loss:2.252 lr:0.000371549344 epoch_Time:116.0min:
+Epoch:[1/1](18100/44160) loss:2.280 lr:0.000369843414 epoch_Time:116.0min:
+Epoch:[1/1](18200/44160) loss:4.011 lr:0.000368133949 epoch_Time:115.0min:
+Epoch:[1/1](18300/44160) loss:2.063 lr:0.000366421036 epoch_Time:115.0min:
+Epoch:[1/1](18400/44160) loss:2.562 lr:0.000364704761 epoch_Time:114.0min:
+Epoch:[1/1](18500/44160) loss:3.558 lr:0.000362985212 epoch_Time:114.0min:
+Epoch:[1/1](18600/44160) loss:2.472 lr:0.000361262475 epoch_Time:114.0min:
+Epoch:[1/1](18700/44160) loss:2.460 lr:0.000359536637 epoch_Time:113.0min:
