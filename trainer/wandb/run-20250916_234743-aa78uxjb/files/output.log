@@ -187,3 +187,6 @@ Epoch:[1/1](18400/44160) loss:2.562 lr:0.000364704761 epoch_Time:114.0min:
 Epoch:[1/1](18500/44160) loss:3.558 lr:0.000362985212 epoch_Time:114.0min:
 Epoch:[1/1](18600/44160) loss:2.472 lr:0.000361262475 epoch_Time:114.0min:
 Epoch:[1/1](18700/44160) loss:2.460 lr:0.000359536637 epoch_Time:113.0min:
+Epoch:[1/1](18800/44160) loss:2.495 lr:0.000357807786 epoch_Time:113.0min:
+Epoch:[1/1](18900/44160) loss:2.868 lr:0.000356076010 epoch_Time:112.0min:
+Epoch:[1/1](19000/44160) loss:2.276 lr:0.000354341395 epoch_Time:112.0min:
